@@ -1,0 +1,8 @@
+
+*.suo
+*.userprefs
+.vs/
+NQuant/bin/
+NQuant/obj/
+NQuantAot/bin/
+NQuantAot/obj/
